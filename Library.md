@@ -35,3 +35,23 @@ By: Alex Elliott & Jack Burkholder
 
 ## 3. Return Process
 
+1. Outline an efficient return system from the user back to the shelves. 
+
+> To make it easier for the young children at Montessori, the user of the book should only have to return it at the front desk/a cart of returned, unsorted books.
+
+> Books should have a tag on the spine that notes whether they are fiction or nonfiction, if they're fiction, they should have the author's last name on them. If they're non-fiction, they should have a Dewey Decimal number on them. This will allow the librarians to resort them more easily.
+
+2. Consider collection points, reshelving frequency, and error handling (e.g., misplaced books). 
+
+> Other possible collection points could be book bins, where books are slid into a slit and cannot be taken back out unless it is by the librarian (this prevents further human error).
+
+> If books are frequently reshelved, consider making a new shelf that is close to the desk to put that category of books in.
+
+> For error handling, assume books have gone missing after a certain amount of time has passed after being checked out (Ex. 3 months). 
+
+3. Are there ever situations where the library might switch strategies (eg if book returns triple during exam season?)
+
+> If the school or library grows in size, or more books are gained, a new sorting strategy could be more efficient.
+
+> Since there should already be an easy-access shelf for curriculum books, there most likely won't be any changes needed if book returns triple during exam season (especially because it is an Elementary school).
+
