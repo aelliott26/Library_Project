@@ -2,6 +2,13 @@
 By: Alex Elliott & Jack Burkholder
 
 > Montessori Elementary Library Proposal
+>> One thing to note is that with an elementary school the students are very young and do not often know what books they want.
+>> 
+>> The students are prone to place books on the wrong shelf after picking them up.
+>>
+>> The space is small, so book selection is a necessary thought. 
+>>
+>> The library can not always rely on books being returned.
 
 ## 1. Overall Organization
 
