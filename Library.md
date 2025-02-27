@@ -76,6 +76,8 @@ By: Alex Elliott & Jack Burkholder
 
 > For error handling, assume books have gone missing after a certain amount of time has passed after being checked out (Ex. 3 months). 
 
+> Occasionally doing shelf walks to ensure that books are place in correct locations.
+
 3. Are there ever situations where the library might switch strategies (eg if book returns triple during exam season?)
 
 > If the school or library grows in size, or more books are gained, a new sorting strategy could be more efficient.
